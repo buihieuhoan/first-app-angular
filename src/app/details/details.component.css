@@ -63,6 +63,13 @@
     border-left: none;
     border-bottom: solid .3px;
   }
+  .primary {
+    padding: 10px;
+    border: solid 1px   #3B71CA;
+    background:   #3B71CA;
+    color: white;
+    border-radius: 8px;
+  }
   @media (max-width: 1024px) {
     .listing-photo {
       width: 100%;
